@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝐖𝐀𝐒𝐈-𝐓𝐄𝐂𝐇",
+      "value": "🅼︎🅲︎🅱︎🅴︎🅽︎-🅼︎🅳︎",
       "required": true
     },
     "CAPTION" : {
@@ -19,13 +19,13 @@
     },
      "THEME" : {
       "description": "ADD YOUR FAVORITE THEME AVAILABLE THEME ARE E.G BTS ,WASI ,SIGMA, ISLAMIC theme name should be capital latter's  ",
-      "value": "WASI",
+      "value": "𝗠𝗖𝗕𝗘𝗡-𝗠𝗗",
       "required" : false 
     },
     
     "IMAGE" : {
       "description": "THUMB IMAGE FOR BOT ",
-      "value": "https://telegra.ph/file/1f4e6e1cc2ed1662adb36.jpg",
+      "value": "http://wa.me/233591856630",
       "required" : true
     },
 
@@ -43,12 +43,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2"
+      "value": "🅼︎🅲︎🅱︎🅴︎🅽︎-🅼︎🅳︎ 🕷"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required": false,
-      "value": "Asia/Karachi"
+      "value": "Africa/Ghana"
     },
     "READ_COMMAND": {
       "description": " Read bot cmds",
@@ -78,7 +78,7 @@
     "WAPRESENCE": {
       "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
       "required": false,
-      "value": "unavailable"
+      "value": "available"
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
@@ -102,15 +102,15 @@
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
-      "value": "."
+      "value": "@"
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": ""
+      "value": "233591856630"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
-      "value": ""
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQUM4ZW1hczh2TUZLWmF0a3dUUVdXMmc5N3JVc1laRVRjMnplTTY4SlRIUT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiOWhxUEJQaC96Vlc0MnZWMDMwN3NHQWJMVW9vUzk2KzIrMTQzSG94WFZ4UT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJNTzdNdDY2TmI3Vit5MWRxZUthdmNnZ3FJY21ub2R4Q1VSSDZVYkkxeEY0PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJjV3hIczhLUFZmczFtWUhTNU1yMXBSTWxwTTBoWDBDODR6empGQTFVL0Z3PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImtGMkN6ZUtreEZhR0pMSlByWW8rQWp2S2xFRXYyUENTL0ZUR2tVcjVXMzQ9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkorOTl4c1h5Wk1udlF1UnpuL3oxNVlGbWFTQ2pCcVY2T3dLQ2psRUtNQjg9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieUNZTDNrdVNrYnNQUFpTVnQzMm9pbHhqMTkyenpYY2hSeWdiUENyMkowRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiU0dvSkNJVmF2N2tXblIyMlhKbHpRWmNQTTM3c2JiTmN2ZGpoUXo2OGpHdz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik0vdWFEaktvemNxQTZBLzQxZW91cGFldjhiZG1tS1J4Z2FOSDY1SEhKeDVUUS9Eck5KaGdsTkx1WWl4SDI0RWc3NVhDZnFYNGc5Q2g1Q3YycTUwZGp3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTg1LCJhZHZTZWNyZXRLZXkiOiJIVmw0aCtvT1NKRFllbXkweFJxNXdwakN0OWFMZmxicExodlVBWjFFL3E4PSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjIzMzU5MTg1NjYzMEBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiJDMDYxRTFCNjhDMzVGMTEwNzcyMUY4NTg1QTI4QjZDOCJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzIyMzI3Njg3fV0sIm5leHRQcmVLZXlJZCI6NjEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjo2MSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJ4RUtlNTVaSVFacVBid0hRMHQ2Y0ZBIiwicGhvbmVJZCI6IjAyYmRhOTc5LTZlNjQtNDlkOC04NWI2LTk4NDdkN2RkMTgyZSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ6cnRKdWJwYm8yeUsvS0tDeTdOMldOKzQyNk09In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiOGFURnhaQytJS1Fxb3B0eXl5bEt2alY4VU04PSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IkdaSkFUQjdLIiwibWUiOnsiaWQiOiIyMzM1OTE4NTY2MzA6NkBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTXJKM0ZFUTljU2l0UVlZTENBQUtBQT0iLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiMkFPYUtvNGpMTm9RWEoxd25JQ1lmV0k2RUFCSGxjaVdkUHR3bFN2R2trdz0iLCJhY2NvdW50U2lnbmF0dXJlIjoiY3J5ME0vU1ZEVFdaQlZTVUcweE5LcXVQMlROL1BUckM1UUp3eWlPVlkyLzhwMlhXamtnUlJFMXBzWUd0VEdDUDZrdWU2d2Q5RXZiUVJYNGp0ME9uQlE9PSIsImRldmljZVNpZ25hdHVyZSI6InlqOHkvQnM4WDEvbW94OFZ3TFBGbVc2eko0Mk1vV1hKbW1PYllCelhzc2hKR092RFd3d2h1b1dEZkdBcFBtaTBMWnRzRDVPK0xlRS9oNkRadHdaNmd3PT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjMzNTkxODU2NjMwOjZAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCZGdEbWlxT0l5emFFRnlkY0p5QW1IMWlPaEFBUjVYSWxuVDdjSlVyeHBKTSJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcyMjMyNzY4MiwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFJSDUifQ=="
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -118,12 +118,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "WASI",
+      "value": "𝐌͢𝐂͢𝐁͢𝐄͢𝐍͢",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "🄼🄲🄱🄴🄽",
       "required": false
     }
   },
